@@ -1,0 +1,200 @@
+vsim -gui work.SYS_TOP_TB
+# vsim -gui work.SYS_TOP_TB 
+# Start time: 20:22:14 on Aug 18,2024
+# Loading work.SYS_TOP_TB
+# Loading work.SYS_TOP
+# Loading work.RST_SYNC
+# Loading work.DATA_SYNC
+# Loading work.Async_fifo
+# Loading work.fifo_mem
+# Loading work.fifo_rd
+# Loading work.BIT_SYNC
+# Loading work.fifo_wr
+# Loading work.PULSE_GEN
+# Loading work.ClkDiv
+# Loading work.CLKDIV_MUX
+# Loading work.UART
+# Loading work.UART_TX
+# Loading work.uart_tx_fsm
+# Loading work.Serializer
+# Loading work.mux
+# Loading work.parity_calc
+# Loading work.UART_RX
+# Loading work.uart_rx_fsm
+# Loading work.edge_bit_counter
+# Loading work.data_sampling
+# Loading work.deserializer
+# Loading work.strt_chk
+# Loading work.par_chk
+# Loading work.stp_chk
+# Loading work.SYS_CTRL
+# Loading work.RegFile
+# Loading work.ALU
+# Loading work.CLK_GATE
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/SYS_TOP_TB/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_SYS_CTRL/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_UART/U0_UART_TX/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_UART_FIFO/*
+run -all
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=32  
+# Write Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=32  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=32  
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=16  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=16  
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=16  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE=16  
+# Write Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=16  
+# Read Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=16  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE=16  
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE= 8  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE= 8  
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE= 8  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=1  PRESCALE= 8  
+# Write Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE= 8  
+# Read Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE= 8  
+# ALU Operation is succeeded with configurations PARITY_ENABLE=0 PARITY_TYPE=0  PRESCALE= 8  
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 16514862454 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+add wave -position insertpoint sim:/SYS_TOP_TB/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_SYS_CTRL/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_RegFile/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_UART_FIFO/*
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_UART/U0_UART_TX/*
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 603366646 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 603366646 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_UART/U0_UART_TX/U0_fsm/*
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 603366646 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 980971702 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 603366646 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 980971702 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+add wave -position insertpoint sim:/SYS_TOP_TB/DUT/U0_ALU/*
+restart -f
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 980971702 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ALU Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 1211006966 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# Compile of SYS_TOP_TB.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.SYS_TOP_TB
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Write Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  
+# Read Operation is succeeded with configurations PARITY_ENABLE=1 PARITY_TYPE=0  PRESCALE=32  GENOUT = 10100000010 , exp = 10100000010 
+# ** Note: $stop    : C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v(439)
+#    Time: 980971702 ps  Iteration: 0  Instance: /SYS_TOP_TB
+# Break in Module SYS_TOP_TB at C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v line 439
+# End time: 00:54:34 on Aug 19,2024, Elapsed time: 4:32:20
+# Errors: 0, Warnings: 1

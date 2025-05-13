@@ -1,0 +1,718 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/4G/Desktop/Final_System
+vALU
+Z0 !s110 1723999293
+!i10b 1
+!s100 ;b3GGUP>;i`db?ajnnCBW0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcSk@TIBm7NRX3F;iC3]@E0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/4G/Desktop/System/RTL
+Z4 w1723887547
+8C:/Users/4G/Desktop/System/RTL/ALU/ALU.v
+FC:/Users/4G/Desktop/System/RTL/ALU/ALU.v
+!i122 17
+L0 1 109
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1723999293.000000
+!s107 C:/Users/4G/Desktop/System/RTL/ALU/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ALU/ALU.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@a@l@u
+vAsync_fifo
+R0
+!i10b 1
+!s100 VM4N:i8h7E9;UbBSU[YOz3
+R1
+Id4OO]PHIURT:IR><BYG=11
+R2
+R3
+Z9 w1723887546
+8C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v
+FC:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v
+!i122 18
+L0 2 73
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v|
+!i113 1
+R7
+R8
+n@async_fifo
+vBIT_SYNC
+R0
+!i10b 1
+!s100 nZ7]zj16cZQT4]n?IMDcD1
+R1
+I38LlV6]Zi8Q4T_@@AOXbF2
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v
+FC:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v
+!i122 19
+L0 6 39
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v|
+!i113 1
+R7
+R8
+n@b@i@t_@s@y@n@c
+vCLK_GATE
+!s110 1724000741
+!i10b 1
+!s100 [niCcQ=f@hXoKdO?GXD6b0
+R1
+Il<53Qo8ObPD1ekQNDEh?E1
+R2
+R3
+w1724000695
+8C:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v
+FC:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v
+!i122 48
+L0 6 40
+R5
+r1
+!s85 0
+31
+!s108 1724000741.000000
+!s107 C:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v|
+!i113 1
+R7
+R8
+n@c@l@k_@g@a@t@e
+vClkDiv
+R0
+!i10b 1
+!s100 R5D3b1fEK^9IN<0fj]l8R2
+R1
+InS[[cKlG_0m?1hSPCVBgd3
+R2
+R3
+R4
+8C:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v
+FC:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v
+!i122 24
+L0 2 64
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v|
+!i113 1
+R7
+R8
+n@clk@div
+vCLKDIV_MUX
+R0
+!i10b 1
+!s100 EfBVMF0S1fC1NSKZcNQJL1
+R1
+I>N@=KNM=[Qk^3@Z@UUahz3
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v
+FC:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v
+!i122 23
+L0 2 31
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v|
+!i113 1
+R7
+R8
+n@c@l@k@d@i@v_@m@u@x
+vdata_sampling
+Z10 !s110 1723999295
+!i10b 1
+!s100 OFB5DFjG_85oSCJ;FNb^72
+R1
+ImMF7AHXn@_JB102^kVP5k0
+R2
+R3
+Z11 w1723887545
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v
+!i122 39
+L0 2 101
+R5
+r1
+!s85 0
+31
+Z12 !s108 1723999295.000000
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v|
+!i113 1
+R7
+R8
+vDATA_SYNC
+R0
+!i10b 1
+!s100 VmH7Q_=YD8>a[:CPdeFVQ3
+R1
+I9P1[VVZSHnDko[MoLeTW=3
+R2
+R3
+R4
+8C:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v
+FC:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v
+!i122 26
+L0 6 90
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v|
+!i113 1
+R7
+R8
+n@d@a@t@a_@s@y@n@c
+vdeserializer
+R10
+!i10b 1
+!s100 6;XbllXUPVnZeC]Qbm@hb0
+R1
+IolQR<GIE2NdLn:[?Pl7EU1
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v
+!i122 40
+L0 2 28
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v|
+!i113 1
+R7
+R8
+vedge_bit_counter
+R10
+!i10b 1
+!s100 XO?K;>62G;_4B?bJ[60eh2
+R1
+Ig=hmbF@?[Ol[WXNjRI6521
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v
+!i122 41
+L0 1 66
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v|
+!i113 1
+R7
+R8
+vfifo_mem
+R0
+!i10b 1
+!s100 ?T0EAGJ=PM_<58<?B3?M_3
+R1
+IbCBOU@YiKnUgX?4d7WWB?0
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v
+FC:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v
+!i122 20
+L0 1 40
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v|
+!i113 1
+R7
+R8
+vfifo_rd
+R0
+!i10b 1
+!s100 XIlXV;3ISJ@lP3H2d1[`E0
+R1
+IIJhELV?Y[GHnea_1W:11e3
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v
+FC:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v
+!i122 21
+L0 9 66
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v|
+!i113 1
+R7
+R8
+vfifo_wr
+R0
+!i10b 1
+!s100 6WW?V2zNEGRI3?OTcm5P]0
+R1
+I9c4^KcnEd`aLcPKCa?aKf1
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v
+FC:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v
+!i122 22
+L0 9 68
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v|
+!i113 1
+R7
+R8
+vmux
+!s110 1724000705
+!i10b 1
+!s100 z4gGIE?_z;??i8>[e5Rf>1
+R1
+IcoJ]4I1?OzmLnWf20Fck51
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v
+!i122 47
+L0 2 49
+R5
+r1
+!s85 0
+31
+!s108 1724000705.000000
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v|
+!i113 1
+R7
+R8
+vpar_chk
+Z13 !s110 1723999296
+!i10b 1
+!s100 k]`:kc45:L[:HDN7VI=[12
+R1
+I7FnloMc2dEnPYVTAFUUL63
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v
+!i122 42
+L0 2 44
+R5
+r1
+!s85 0
+31
+Z14 !s108 1723999296.000000
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v|
+!i113 1
+R7
+R8
+vparity_calc
+Z15 !s110 1723999294
+!i10b 1
+!s100 6f3FMM<G>g^49e9Z]>HaM0
+R1
+IK3R?ce;C82SkD`[]d5cQe2
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v
+!i122 35
+L0 1 53
+R5
+r1
+!s85 0
+31
+Z16 !s108 1723999294.000000
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v|
+!i113 1
+R7
+R8
+vPULSE_GEN
+R15
+!i10b 1
+!s100 8JVFCTTiEeS:[fJAdglfQ2
+R1
+I0`<@YEM>HGg[XoLd0j?O;1
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v
+FC:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v
+!i122 27
+L0 6 33
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v|
+!i113 1
+R7
+R8
+n@p@u@l@s@e_@g@e@n
+vRegFile
+R15
+!i10b 1
+!s100 hcRbD]?Z@i3UJCaARQih;2
+R1
+I1^ZRabX5gSEJ?kn?`5Q:I0
+R2
+R3
+R4
+8C:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v
+FC:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v
+!i122 28
+L0 2 60
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v|
+!i113 1
+R7
+R8
+n@reg@file
+vRST_SYNC
+R15
+!i10b 1
+!s100 8?T<4XoS>SA3YjDJJjA6]3
+R1
+I`2J<KD7VlUfb>Iez9bSLT3
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v
+FC:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v
+!i122 29
+L0 6 32
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v|
+!i113 1
+R7
+R8
+n@r@s@t_@s@y@n@c
+vSerializer
+R15
+!i10b 1
+!s100 ?8@GSD=TPUZSDWg>eB?YF3
+R1
+I=N1lfi=DLAGIEFUB<ek[E1
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v
+!i122 36
+L0 2 59
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v|
+!i113 1
+R7
+R8
+n@serializer
+vstp_chk
+R13
+!i10b 1
+!s100 hc?_ZE9hK9XH2?QH:82>A0
+R1
+Ia;T:_Qm62A<FK86ma_KI03
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v
+!i122 43
+Z17 L0 2 26
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v|
+!i113 1
+R7
+R8
+vstrt_chk
+R13
+!i10b 1
+!s100 3NRTcdXbFI:ZR?jKMUAXX0
+R1
+Ic4Hf85:fCkiPfU`85g5eo2
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v
+!i122 44
+R17
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v|
+!i113 1
+R7
+R8
+vSYS_CTRL
+R15
+!i10b 1
+!s100 <XBLdh_hCmXCT[a_Jbd5N1
+R1
+IZP?ON:_0jNXY;>0LZIME@0
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v
+FC:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v
+!i122 30
+L0 2 374
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v|
+!i113 1
+R7
+R8
+n@s@y@s_@c@t@r@l
+vSYS_TOP
+R15
+!i10b 1
+!s100 CT4b6h6i[eHUCOj0Zz]A91
+R1
+I9:aDKQG21=YERHYPX:4K]3
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v
+FC:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v
+!i122 32
+L0 2 243
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v|
+!i113 1
+R7
+R8
+n@s@y@s_@t@o@p
+vSYS_TOP_TB
+!s110 1724014619
+!i10b 1
+!s100 7DfIeGE7YQWgEh3CX5IRC3
+R1
+Id3IDL`<kBe6_l_BR;:>aX1
+R2
+R3
+w1724014613
+8C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v
+FC:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v
+!i122 55
+L0 4 773
+R5
+r1
+!s85 0
+31
+!s108 1724014619.000000
+!s107 C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v|
+!i113 1
+R7
+R8
+n@s@y@s_@t@o@p_@t@b
+vUART
+R15
+!i10b 1
+!s100 >nfI5G[`NQR6iYjeLQLll2
+R1
+IQ5n<Jk[eSa^z?8o3Ec8jS0
+R2
+R3
+R9
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v
+!i122 31
+L0 2 50
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v|
+!i113 1
+R7
+R8
+n@u@a@r@t
+vUART_RX
+R13
+!i10b 1
+!s100 G[QhQ@Fb74DFT6PiNbHNZ2
+R1
+I=a>Q;0FK^l@=V^YD820910
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v
+!i122 45
+L0 2 107
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v|
+!i113 1
+R7
+R8
+n@u@a@r@t_@r@x
+vuart_rx_fsm
+R13
+!i10b 1
+!s100 _>z1;Z>HI`;9PP9>:YYl43
+R1
+ImSzFOoSaD@7Z>On<IM=gE2
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v
+!i122 46
+L0 2 232
+R5
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v|
+!i113 1
+R7
+R8
+vUART_TX
+R15
+!i10b 1
+!s100 HBMKIed:LgLX;Fm1hFhC>3
+R1
+I2Yfeg;FdmhM7m[Gmbm5Mc1
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v
+!i122 37
+L0 2 67
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v|
+!i113 1
+R7
+R8
+n@u@a@r@t_@t@x
+vuart_tx_fsm
+R10
+!i10b 1
+!s100 4FSC8>PJdJmiV@mB0M2I11
+R1
+IUaEX=6f1CeMWFaF9?_5Mb3
+R2
+R3
+R11
+8C:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v
+FC:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v
+!i122 38
+L0 2 135
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v|
+!i113 1
+R7
+R8

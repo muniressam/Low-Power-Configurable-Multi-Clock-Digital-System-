@@ -1,0 +1,211 @@
+C:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/par_chk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module par_chk
+
+Top level modules:
+	par_chk
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_TOP_TB
+
+Top level modules:
+	SYS_TOP_TB
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/edge_bit_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/RST_SYNC/RST_SYNC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_rd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_rd
+
+Top level modules:
+	fifo_rd
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_mem
+
+Top level modules:
+	fifo_mem
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TX/Serializer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/BIT_SYNC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/DATA_SYNC/DATA_SYNC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/RegFile/RegFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/UART_RX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TX/parity_calc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module parity_calc
+
+Top level modules:
+	parity_calc
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/Clock_Divider/ClkDiv.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TX/UART_TX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/Async_fifo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Async_fifo
+
+Top level modules:
+	Async_fifo
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/strt_chk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module strt_chk
+
+Top level modules:
+	strt_chk
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/uart_rx_fsm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_rx_fsm
+
+Top level modules:
+	uart_rx_fsm
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/deserializer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/PULSE_GEN/PULSE_GEN.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PULSE_GEN
+
+Top level modules:
+	PULSE_GEN
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/CLKDIV_MUX/CLKDIV_MUX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CLKDIV_MUX
+
+Top level modules:
+	CLKDIV_MUX
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ALU/ALU.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ALU/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/Top/SYS_TOP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TX/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/data_sampling.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_RX/stp_chk.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stp_chk
+
+Top level modules:
+	stp_chk
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/ASYNC_FIFO/fifo_wr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_wr
+
+Top level modules:
+	fifo_wr
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TOP/UART.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/SYS_CTRL/SYS_CTRL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/UART/UART_TX/uart_tx_fsm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tx_fsm
+
+Top level modules:
+	uart_tx_fsm
+
+} {} {}} C:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v {1 {vlog -work work -stats=none C:/Users/4G/Desktop/System/RTL/Clock_Gating/CLK_GATE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}}
